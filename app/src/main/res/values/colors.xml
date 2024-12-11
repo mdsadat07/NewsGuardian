@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_primary">#0000FF</color> <!-- Blue -->
+    <color name="blue_dark">#00008B</color> <!-- Dark Blue -->
+    <color name="yellow_primary">#FFD700</color> <!-- Gold (Yellow) -->
+    <color name="yellow_light">#FFFFE0</color> <!-- Light Yellow -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

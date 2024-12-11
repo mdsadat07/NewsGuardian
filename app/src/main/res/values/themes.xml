@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+   
+    <style name="Base.Theme.Guardiannews" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Secondary Colors -->
+        <item name="colorSecondary">@color/yellow_primary</item>
+        <item name="colorSecondaryVariant">@color/yellow_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <style name="Theme.Guardiannews" parent="Base.Theme.Guardiannews">
+        <!-- Inherit all base theme styles -->
+    </style>
+</resources>

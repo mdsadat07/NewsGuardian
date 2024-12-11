@@ -1,0 +1,5 @@
+<resources>
+    <style name="CustomPopupMenu" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColor">#FF0000</item>
+    </style>
+</resources>

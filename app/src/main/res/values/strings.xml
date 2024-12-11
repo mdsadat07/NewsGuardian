@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="search_hint">Enter search term</string>
+    <string name="search_button">Search</string>
+</resources>
+
+
+
+
